@@ -1,0 +1,3 @@
+python aksis.py
+
+pause
