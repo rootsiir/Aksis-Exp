@@ -11,4 +11,5 @@ colorama
 ![image](https://user-images.githubusercontent.com/98325453/230730642-27603472-53d8-40df-b241-71550cc0dba8.png)
 
 **Mail doğrulaması geçme eğitimi için hazırlanmıştır, kötü amaçlı kullanıma kapalıdır ve kullanılması durumunda sorumluluk kullanan kişiye aittir**
+
 **the user is responsible for malicious use**
